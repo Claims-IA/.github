@@ -14,10 +14,10 @@
 
 ## Test
 
-- [ ] PHPUnit
-- [ ] Behavior
-- [ ] Frontend
-- [ ] E2E
+- [ ] 🐘 PHPUnit
+- [ ] 🧙‍♂️ Behavior
+- [ ] 👨‍🎨 Frontend
+- [ ] 🤝 E2E
 
 ## Documentation
 
