@@ -12,13 +12,6 @@
 
 ## Tickets et documents liés
 
-## Test
-
-- [ ] 🐘 PHPUnit
-- [ ] 🧙‍♂️ Behavior
-- [ ] 👨‍🎨 Frontend
-- [ ] 🤝 E2E
-
 ## Documentation
 
 - [ ] 📜 README.md
@@ -31,4 +24,5 @@
 
 ## Choses a faire pour le déploiement ? (SQL/Variables d'environnements)
 
-## [optionnel] Un GIF ?
+# 🤖 Code partiellement généré par IA 
+^^^ Enlever ce footer si ce n'est pas le cas ^^^
