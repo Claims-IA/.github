@@ -1,28 +1,24 @@
-## Description
+## Quoi
 
-## Type de PR
+<!-- ce que la PR change concrètement. -->
 
-- [ ] 🍕 Feature
-- [ ] 🐛 Bug Fix
-- [ ] 🎨 Style
-- [ ] 🧑‍💻 Code Refactor
-- [ ] ✅ Test
-- [ ] 🤖 Devops
-- [ ] 🔬 POC
+## Pourquoi
 
-## Tickets et documents liés
+<!-- le besoin métier ou technique derrière le changement. -->
 
-## Documentation
+## Hors-périmètre
 
-- [ ] 📜 README.md
-- [ ] 📓 Whimsical
-- [ ] 🤖 Stoplight
-- [ ] 📕 Storybook
-- [ ] 🙅 Pas besoin
+<!-- Ce que la PR ne traite volontairement pas, et où c'est traité le cas échéant.
+Exemples : "le renommage dans X est volontaire", "la dette dans Y est traitée dans CIA-XXXX".
+Chaque point non déclaré reviendra en commentaire inutile de la review IA. -->
 
-## Comment tester ?
 
-## Choses a faire pour le déploiement ? (SQL/Variables d'environnements)
+## Points d'attention pour la review
 
-# 🤖 Code partiellement généré par IA 
+<!-- Orientez la review là où elle a le plus de valeur :
+- zones à risque : migration, ordre de chargement, résolution des overrides assureur, effets de bord
+- bruit mécanique : si un passage de cs-fixer ou un reformatage a touché des fichiers annexes, dites-le ici -->
+
+
+# 🤖 Code partiellement généré par IA
 ^^^ Enlever ce footer si ce n'est pas le cas ^^^
