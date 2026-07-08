@@ -20,5 +20,5 @@ Chaque point non déclaré reviendra en commentaire inutile de la review IA. -->
 - bruit mécanique : si un passage de cs-fixer ou un reformatage a touché des fichiers annexes, dites-le ici -->
 
 
-# 🤖 Code partiellement généré par IA
+### 🤖 Code partiellement généré par IA
 ^^^ Enlever ce footer si ce n'est pas le cas ^^^
