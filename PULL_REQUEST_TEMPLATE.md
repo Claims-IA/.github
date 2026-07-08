@@ -21,4 +21,4 @@ Chaque point non déclaré reviendra en commentaire inutile de la review IA. -->
 
 
 ### 🤖 Code partiellement généré par IA
-^^^ Enlever ce footer si ce n'est pas le cas ^^^
+<!-- ^^^ Enlever ce footer si ce n'est pas le cas ^^^-->
