@@ -1,24 +1,24 @@
 ## Quoi
 
-<!-- ce que la PR change concrètement. -->
+<!-- Décrire le changement concret et le comportement obtenu. -->
 
 ## Pourquoi
 
-<!-- le besoin métier ou technique derrière le changement. -->
+<!-- Expliquer le besoin et les contrats à préserver. -->
 
 ## Hors-périmètre
 
-<!-- Ce que la PR ne traite volontairement pas, et où c'est traité le cas échéant.
-Exemples : "le renommage dans X est volontaire", "la dette dans Y est traitée dans CIA-XXXX".
-Chaque point non déclaré reviendra en commentaire inutile de la review IA. -->
-
+<!-- Signaler les limites utiles à la review sans données privées ni détails opérationnels. -->
 
 ## Points d'attention pour la review
 
-<!-- Orientez la review là où elle a le plus de valeur :
-- zones à risque : migration, ordre de chargement, résolution des overrides assureur, effets de bord
-- bruit mécanique : si un passage de cs-fixer ou un reformatage a touché des fichiers annexes, dites-le ici -->
+<!-- Indiquer les risques de compatibilité, sécurité, intégrité des données et exploitation.
+Distinguer les changements mécaniques des changements de comportement. -->
 
+## Vérification
+
+<!-- Pour chaque contrôle : commande, état vérifié, résultat et limites.
+Distinguer réussi, échoué, indisponible et non applicable. Ne pas déclarer un test non exécuté réussi. -->
 
 ### 🤖 Code partiellement généré par IA
-<!-- ^^^ Enlever ce footer si ce n'est pas le cas ^^^-->
+<!-- Conserver cette déclaration lorsque c'est le cas. Sinon, retirer cette section. -->
